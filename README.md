@@ -9,6 +9,12 @@ Controls :
 -----------
 
 Arrow Keys : To move mouse
+
+
 'H' : Left click
+
+
 "J" : Right click
+
+
 "E" : Exit
